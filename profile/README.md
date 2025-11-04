@@ -1,3 +1,4 @@
+# Abstract
 ### 웨어러블 사물인터넷과 LLM의 실시간 통합을 위한 서버리스 아키텍처 기반 플랫폼 설계 및 구현: 노인 자기주도 케어 사례 중심으로
 ### A Serverless Platform for Real-Time Integration of Wearable IoT and Large Language Models: Design, Implementation, and an Elderly Self-Care Case Study
 -------------
